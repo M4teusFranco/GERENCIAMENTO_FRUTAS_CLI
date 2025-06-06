@@ -41,15 +41,27 @@ AWTTestSwing
 
 📝 Exemplo de Saída
 
+#### Interface Principal
+
 ![image](https://github.com/user-attachments/assets/fba197c3-39b4-41ae-9624-9043a706e581)
+
+#### Adição de Fruta
 
 ![image](https://github.com/user-attachments/assets/f395c67b-d344-469a-9cf8-09d3617263db)
 
+#### Listagem de Frutas
+
 ![image](https://github.com/user-attachments/assets/aeb344f3-cd17-4ceb-a568-1b7409b7edda)
+
+#### Verificação de presente da Fruta
 
 ![image](https://github.com/user-attachments/assets/16f12ef9-11d1-4920-ba0a-bcbc97175ea8)
 
+#### Remoção de Fruta
+
 ![image](https://github.com/user-attachments/assets/34cbca38-bbf0-4e4b-85e9-1cfffcdccc1b)
+
+#### Saída do programa
 
 ![image](https://github.com/user-attachments/assets/f223b267-f3ac-47d5-a6e2-9343b5886d28)
 
